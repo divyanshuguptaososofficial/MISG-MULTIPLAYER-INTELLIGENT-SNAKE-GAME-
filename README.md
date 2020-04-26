@@ -1,6 +1,6 @@
 # MISG-MULTIPLAYER-INTELLIGENT-SNAKE-GAME-
 MISG is desinged totally in C++  using AI techniques
-
+The game has saving options.
 Game Options:
 
 1)Single player 
