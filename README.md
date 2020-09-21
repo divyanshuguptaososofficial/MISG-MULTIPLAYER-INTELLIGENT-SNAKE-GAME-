@@ -9,7 +9,7 @@
 # Game Options:
 
 # Main Menu
-<img src = "/Camera Roll/MAIN_MENU_SCREEN.PNG" width="250" height="500"/> 
+<img src = "/Camera Roll/MAIN_MENU_SCREEN.PNG" /> 
 ## Single player 
 <img src = "/Extras/splash.jpg" width="250" height="500"/> 
 ## Computer Vs User
