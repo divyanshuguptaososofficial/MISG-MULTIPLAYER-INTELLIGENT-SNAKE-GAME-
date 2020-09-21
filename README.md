@@ -7,6 +7,7 @@
 - In this game player can pause the game in any point of time and can resume it.
 
 <img src = "/Camera Roll/video.gif" /> 
+
 # Game Options:
 
 # Main Menu
