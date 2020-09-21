@@ -8,23 +8,27 @@
 
 Game Options:
 
-- 1)Single player 
-- 2)Computer Vs User
-- 3)User vs User
-- 4)Computer vs Computer
-- 5)Play saved Single player
-- 6)Play saved Computer vs User
-- 7)Play saved User vs User
-- 8)Highscore Table
-
- 
-# MarkUp
-
-<a href="https://play.google.com/store/apps/details?id=com.osos.markup"><img alt="Get it on Google Play" height="80" src="/Extras/google-play-badge.png"></a>
-
+- Single player 
+<img src = "/Extras/splash.jpg" width="250" height="500"/> 
+- Computer Vs User
+<img src = "/Extras/splash.jpg" width="250" height="500"/> 
+- User vs User
+<img src = "/Extras/splash.jpg" width="250" height="500"/> 
+- Computer vs Computer
+<img src = "/Extras/splash.jpg" width="250" height="500"/> 
+- Play saved Single player
+<img src = "/Extras/splash.jpg" width="250" height="500"/> 
+- Play saved Computer vs User
+<img src = "/Extras/splash.jpg" width="250" height="500"/> 
+- Play saved User vs User
+<img src = "/Extras/splash.jpg" width="250" height="500"/> 
+- Highscore Table
 <img src = "/Extras/splash.jpg" width="250" height="500"/> 
 
-# Student
+ 
+
+
+
 
 
 ## DashBoard
