@@ -1,10 +1,10 @@
 # MISG-MULTIPLAYER-INTELLIGENT-SNAKE-GAME-
 -MISG is desinged totally in C++  using AI techniques
 
-•	This game is designed using C++.
-•	Game also implements AI concepts.
-•	This is a multiplayer game in which intelligent CPU competes with USER. 
-•	In this game player can pause the game in any point of time and can resume it.
+-This game is designed using C++.
+-Game also implements AI concepts.
+-This is a multiplayer game in which intelligent CPU competes with USER. 
+-In this game player can pause the game in any point of time and can resume it.
 
 Game Options:
 
