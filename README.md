@@ -15,19 +15,25 @@
 <img src = "/Camera Roll/Single_player.PNG" /> 
 
 # Computer Vs User
+<img src = "/Camera Roll/Player_vs_Comp.PNG" /> 
+
+# User vs User
+<img src = "/Camera Roll/User_vs_user.PNG" /> 
+
+# Computer vs Computer
+<img src = "/Camera Roll/comp_vs_comp.PNG" /> 
+
+# Play saved Single player
 <img src = "/Camera Roll/Single_player.PNG" /> 
-## User vs User
+
+# Play saved Computer vs User
 <img src = "/Camera Roll/Single_player.PNG" /> 
-## Computer vs Computer
+
+# Play saved User vs User
 <img src = "/Camera Roll/Single_player.PNG" /> 
-## Play saved Single player
-<img src = "/Camera Roll/Single_player.PNG" /> 
-## Play saved Computer vs User
-<img src = "/Camera Roll/Single_player.PNG" /> 
-## Play saved User vs User
-<img src = "/Camera Roll/Single_player.PNG" /> 
-## Highscore Table
-<img src = "/Camera Roll/Single_player.PNG" /> 
+
+# Highscore Table
+<img src = "/Camera Roll/highscore_table.PNG" /> 
 
  
 
