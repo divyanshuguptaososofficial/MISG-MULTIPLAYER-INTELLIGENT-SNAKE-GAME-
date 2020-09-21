@@ -6,6 +6,7 @@
 - This is a multiplayer game in which intelligent CPU competes with USER. 
 - In this game player can pause the game in any point of time and can resume it.
 
+<img src = "/Camera Roll/Single_player.PNG" /> 
 # Game Options:
 
 # Main Menu
