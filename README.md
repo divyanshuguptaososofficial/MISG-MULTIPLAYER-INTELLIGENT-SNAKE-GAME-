@@ -1,5 +1,5 @@
 # MISG-MULTIPLAYER-INTELLIGENT-SNAKE-GAME-
-MISG is desinged totally in C++  using AI techniques
+-MISG is desinged totally in C++  using AI techniques
 
 •	This game is designed using C++.
 •	Game also implements AI concepts.
