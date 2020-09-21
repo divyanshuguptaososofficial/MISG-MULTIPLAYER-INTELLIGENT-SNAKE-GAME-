@@ -10,22 +10,24 @@
 
 # Main Menu
 <img src = "/Camera Roll/MAIN_MENU_SCREEN.PNG" /> 
-## Single player 
-<img src = "/Extras/splash.jpg" width="250" height="500"/> 
-## Computer Vs User
-<img src = "/Extras/splash.jpg" width="250" height="500"/> 
+
+# Single player 
+<img src = "/Camera Roll/Single_player.PNG" /> 
+
+# Computer Vs User
+<img src = "/Camera Roll/Single_player.PNG" /> 
 ## User vs User
-<img src = "/Extras/splash.jpg" width="250" height="500"/> 
+<img src = "/Camera Roll/Single_player.PNG" /> 
 ## Computer vs Computer
-<img src = "/Extras/splash.jpg" width="250" height="500"/> 
+<img src = "/Camera Roll/Single_player.PNG" /> 
 ## Play saved Single player
-<img src = "/Extras/splash.jpg" width="250" height="500"/> 
+<img src = "/Camera Roll/Single_player.PNG" /> 
 ## Play saved Computer vs User
-<img src = "/Extras/splash.jpg" width="250" height="500"/> 
+<img src = "/Camera Roll/Single_player.PNG" /> 
 ## Play saved User vs User
-<img src = "/Extras/splash.jpg" width="250" height="500"/> 
+<img src = "/Camera Roll/Single_player.PNG" /> 
 ## Highscore Table
-<img src = "/Extras/splash.jpg" width="250" height="500"/> 
+<img src = "/Camera Roll/Single_player.PNG" /> 
 
  
 
